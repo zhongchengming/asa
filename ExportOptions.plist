@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://47.92.66.105:8443/download/lawAssistant.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://47.92.66.105:8443/ssl/57X57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://47.92.66.105:8443/ssl/512X512.png</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>92VGXSCKJ5</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
